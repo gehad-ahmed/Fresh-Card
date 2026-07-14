@@ -1,5 +1,7 @@
 # 🛒 Fresh Cart — React E-Commerce App
 
+> 🔗 **Live Demo:** [https://gehad-ahmed.github.io/Fresh-Card/](https://gehad-ahmed.github.io/Fresh-Card/)
+
 A fully-featured e-commerce single-page application built with **React** and **Vite**, connected to a live REST API. Browse products, manage a cart and wishlist, authenticate, and complete a real checkout flow.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
